@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/metrics-webapp/static/css/main.733bcb6e.css",
+    "main.js": "/metrics-webapp/static/js/main.c27e8c8d.js",
+    "static/media/map-europe.png": "/metrics-webapp/static/media/map-europe.7228156a576666e2ac20.png",
+    "index.html": "/metrics-webapp/index.html",
+    "main.733bcb6e.css.map": "/metrics-webapp/static/css/main.733bcb6e.css.map",
+    "main.c27e8c8d.js.map": "/metrics-webapp/static/js/main.c27e8c8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733bcb6e.css",
+    "static/js/main.c27e8c8d.js"
+  ]
+}
