@@ -1,0 +1,572 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container-list"
+      >
+        <button
+          class=""
+          id="RS"
+          type="button"
+        >
+          <div
+            class="container-1"
+          >
+            <div
+              class="icon-right margin"
+            >
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+                data-icon="circle-arrow-right"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+            <div
+              class="flag"
+            >
+              <span>
+                Loading...
+              </span>
+              <img
+                alt="flag"
+                src="https://flagsapi.com/RS/flat/64.png"
+              />
+            </div>
+            <h1
+              class="title "
+            >
+              REPUBLIC OF SERBIA
+            </h1>
+            <p
+              class="population margin"
+            >
+              6,908,224
+            </p>
+          </div>
+        </button>
+        <button
+          class="dark"
+          id="AD"
+          type="button"
+        >
+          <div
+            class="container-1"
+          >
+            <div
+              class="icon-right margin"
+            >
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+                data-icon="circle-arrow-right"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+            <div
+              class="flag"
+            >
+              <span>
+                Loading...
+              </span>
+              <img
+                alt="flag"
+                src="https://flagsapi.com/AD/flat/64.png"
+              />
+            </div>
+            <h1
+              class="title "
+            >
+              PRINCIPALITY OF ANDORRA
+            </h1>
+            <p
+              class="population margin"
+            >
+              77,265
+            </p>
+          </div>
+        </button>
+        <button
+          class="dark"
+          id="UA"
+          type="button"
+        >
+          <div
+            class="container-1"
+          >
+            <div
+              class="icon-right margin"
+            >
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+                data-icon="circle-arrow-right"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+            <div
+              class="flag"
+            >
+              <span>
+                Loading...
+              </span>
+              <img
+                alt="flag"
+                src="https://flagsapi.com/UA/flat/64.png"
+              />
+            </div>
+            <h1
+              class="title "
+            >
+              UKRAINE
+            </h1>
+            <p
+              class="population margin"
+            >
+              44,134,693
+            </p>
+          </div>
+        </button>
+        <button
+          class=""
+          id="NO"
+          type="button"
+        >
+          <div
+            class="container-1"
+          >
+            <div
+              class="icon-right margin"
+            >
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+                data-icon="circle-arrow-right"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+            <div
+              class="flag"
+            >
+              <span>
+                Loading...
+              </span>
+              <img
+                alt="flag"
+                src="https://flagsapi.com/NO/flat/64.png"
+              />
+            </div>
+            <h1
+              class="title "
+            >
+              KINGDOM OF NORWAY
+            </h1>
+            <p
+              class="population margin"
+            >
+              5,379,475
+            </p>
+          </div>
+        </button>
+        <button
+          class=""
+          id="JE"
+          type="button"
+        >
+          <div
+            class="container-1"
+          >
+            <div
+              class="icon-right margin"
+            >
+              <svg
+                aria-hidden="true"
+                class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+                data-icon="circle-arrow-right"
+                data-prefix="fas"
+                focusable="false"
+                role="img"
+                viewBox="0 0 512 512"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+            <div
+              class="flag"
+            >
+              <span>
+                Loading...
+              </span>
+              <img
+                alt="flag"
+                src="https://flagsapi.com/JE/flat/64.png"
+              />
+            </div>
+            <h1
+              class="title "
+            >
+              BAILIWICK OF JERSEY
+            </h1>
+            <p
+              class="population margin"
+            >
+              100,800
+            </p>
+          </div>
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container-list"
+    >
+      <button
+        class=""
+        id="RS"
+        type="button"
+      >
+        <div
+          class="container-1"
+        >
+          <div
+            class="icon-right margin"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+              data-icon="circle-arrow-right"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                fill="currentColor"
+              />
+            </svg>
+          </div>
+          <div
+            class="flag"
+          >
+            <span>
+              Loading...
+            </span>
+            <img
+              alt="flag"
+              src="https://flagsapi.com/RS/flat/64.png"
+            />
+          </div>
+          <h1
+            class="title "
+          >
+            REPUBLIC OF SERBIA
+          </h1>
+          <p
+            class="population margin"
+          >
+            6,908,224
+          </p>
+        </div>
+      </button>
+      <button
+        class="dark"
+        id="AD"
+        type="button"
+      >
+        <div
+          class="container-1"
+        >
+          <div
+            class="icon-right margin"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+              data-icon="circle-arrow-right"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                fill="currentColor"
+              />
+            </svg>
+          </div>
+          <div
+            class="flag"
+          >
+            <span>
+              Loading...
+            </span>
+            <img
+              alt="flag"
+              src="https://flagsapi.com/AD/flat/64.png"
+            />
+          </div>
+          <h1
+            class="title "
+          >
+            PRINCIPALITY OF ANDORRA
+          </h1>
+          <p
+            class="population margin"
+          >
+            77,265
+          </p>
+        </div>
+      </button>
+      <button
+        class="dark"
+        id="UA"
+        type="button"
+      >
+        <div
+          class="container-1"
+        >
+          <div
+            class="icon-right margin"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+              data-icon="circle-arrow-right"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                fill="currentColor"
+              />
+            </svg>
+          </div>
+          <div
+            class="flag"
+          >
+            <span>
+              Loading...
+            </span>
+            <img
+              alt="flag"
+              src="https://flagsapi.com/UA/flat/64.png"
+            />
+          </div>
+          <h1
+            class="title "
+          >
+            UKRAINE
+          </h1>
+          <p
+            class="population margin"
+          >
+            44,134,693
+          </p>
+        </div>
+      </button>
+      <button
+        class=""
+        id="NO"
+        type="button"
+      >
+        <div
+          class="container-1"
+        >
+          <div
+            class="icon-right margin"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+              data-icon="circle-arrow-right"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                fill="currentColor"
+              />
+            </svg>
+          </div>
+          <div
+            class="flag"
+          >
+            <span>
+              Loading...
+            </span>
+            <img
+              alt="flag"
+              src="https://flagsapi.com/NO/flat/64.png"
+            />
+          </div>
+          <h1
+            class="title "
+          >
+            KINGDOM OF NORWAY
+          </h1>
+          <p
+            class="population margin"
+          >
+            5,379,475
+          </p>
+        </div>
+      </button>
+      <button
+        class=""
+        id="JE"
+        type="button"
+      >
+        <div
+          class="container-1"
+        >
+          <div
+            class="icon-right margin"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-circle-arrow-right faCircleArrowRight"
+              data-icon="circle-arrow-right"
+              data-prefix="fas"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM281 385c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l71-71L136 280c-13.3 0-24-10.7-24-24s10.7-24 24-24l182.1 0-71-71c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L393 239c9.4 9.4 9.4 24.6 0 33.9L281 385z"
+                fill="currentColor"
+              />
+            </svg>
+          </div>
+          <div
+            class="flag"
+          >
+            <span>
+              Loading...
+            </span>
+            <img
+              alt="flag"
+              src="https://flagsapi.com/JE/flat/64.png"
+            />
+          </div>
+          <h1
+            class="title "
+          >
+            BAILIWICK OF JERSEY
+          </h1>
+          <p
+            class="population margin"
+          >
+            100,800
+          </p>
+        </div>
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
