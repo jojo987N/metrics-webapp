@@ -5,10 +5,6 @@ import BASE_URL from '../../global';
 export const getCountries = createAsyncThunk('countries/getCountries', async (arg, { rejectWithValue }) => {
   try {
     const data = await axios.get(`${BASE_URL}`);
-    // console.log(data.data.filter((_, i) => i < 5).map((x) => ({
-    //   name: x.name,
-    //   population: x.population,
-    // })));
     return data.data;
   } catch (error) {
     return rejectWithValue(error);
