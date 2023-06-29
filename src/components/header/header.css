@@ -1,0 +1,67 @@
+.header-1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+  background: #dc4782;
+}
+
+.year {
+  color: white;
+  font-weight: bold;
+}
+
+.header-1-last {
+  display: flex;
+  width: 20%;
+  justify-content: space-between;
+}
+
+.header-1-first {
+  display: flex;
+  gap: 2%;
+  width: 20%;
+}
+
+.header-1 .title {
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
+
+.header-2 {
+  display: flex;
+  align-items: center;
+  color: white;
+  background: #e77ea8;
+}
+
+.header-2 div:nth-child(1) {
+  width: 50%;
+  height: 150px;
+}
+
+.header-2 img {
+  /* width: 80%; */
+  opacity: 0.7;
+}
+
+.header-2 h1 {
+  margin: 0;
+  font-weight: 900;
+}
+
+.header-2 div:nth-child(2) {
+  margin: auto;
+}
+
+.header-2 span {
+  font-weight: bold;
+}
+
+.title-1 {
+  color: white;
+  font-size: 12px;
+  background: #d6296e;
+  padding: 1%;
+  font-weight: 700;
+}
