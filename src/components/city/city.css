@@ -1,0 +1,22 @@
+.title {
+  font-size: 1rem;
+  color: white;
+  font-weight: 900;
+  width: 57%;
+}
+
+.container-city {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+.persons {
+  font-weight: 700;
+  flex-grow: 1;
+  color: white;
+}
+
+.dark1 {
+  background: #dc4782;
+}
