@@ -4,7 +4,7 @@ import City from '../../city/City';
 
 export default function ListCities() {
   const { data1, isLoading, error } = useSelector((state) => state.cities);
-  if (isLoading) return <div className="loading">Loading ...</div>;
+  if (isLoading) return <div className="loading">Loading ... Please wait. Sometimes I take time</div>;
   if (error) { return <div className="error">API doesn&apos;t provide data for this country</div>; }
   return (
     <div className="container">
