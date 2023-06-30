@@ -1,0 +1,12 @@
+.error {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 5%;
+  padding: 10px;
+}
+
+.loading {
+  color: white;
+  padding: 5%;
+  font-weight: bold;
+}

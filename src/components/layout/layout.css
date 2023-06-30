@@ -1,0 +1,13 @@
+.panel-bg {
+  min-width: 365px;
+  padding: 20px;
+  background: #811842;
+  border-radius: 5px;
+  margin: auto;
+}
+
+@media screen and (min-width: 768px) {
+  .panel-bg {
+    width: 430px;
+  }
+}
